@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Corentin Lothodé, CNRS Research Engineer at LMRS, Rouen.
+- 👀 I’m interested in High Performance Computing and Artificial Intelligence.
+- 🌱 I’m currently learning Julia, my new love.
+- 📫 You can reach me @corentin-hpc on twitter.
